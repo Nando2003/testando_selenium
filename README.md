@@ -1,5 +1,5 @@
 # Indrodução
-Esse é um mini-projeto em que utilizo o Selenium para mandar um email personalizado para um destinatario.
+Esse é um mini-projeto em que utilizo o *Selenium* para mandar um email personalizado para um destinatario.
 
 # Como usar?
 Antes de rodar a aplicação, você deve criar um ambiente virtual.
